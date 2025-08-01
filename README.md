@@ -5,8 +5,18 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 끊임없이 배우고 성장하는 것을 좋아하는 개발자 추희도 입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 중학생 때 처음 코딩을 접한 이후, 프로그래밍에 흥미를 느껴 계속해서 다양한 기술을 익혀왔습니다.</li>고등학생이 된 후에는 알고리즘 문제 해결(PS) 에 도전하며 문제 해결력과 사고력을 키웠고,</li>이 경험은 이후의 개발에 큰 도움이 되었습니다.</li></li>현재는 React, Flutter, Spring Boot, Node.js 등 다양한 기술을 활용해</li>웹과 앱 서비스를 개발하고 있으며, 프론트와 백엔드를 모두 아우르는 풀스택 개발에 매력을 느끼고 있습니다.</li></li>혼자 만드는 것도 즐기지만, 팀 프로젝트에서의 협업과 소통을 통해 함께 성장하는 개발 문화를 더 좋아합니다.</li>앞으로도 꾸준히 배우고 도전하며, 더 나은 개발자가 되기 위해 항상 노력 중입니다. 🚀 </div> 
-    </div>
+   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+       중학생 때 처음 코딩을 접한 이후, 프로그래밍에 흥미를 느껴 계속해서 다양한 기술을 익혀왔습니다.<br><br>
+       고등학생이 된 후에는 알고리즘 문제 해결(PS)에 도전하며 문제 해결력과 사고력을 키웠고,<br>
+       이 경험은 이후의 개발에 큰 도움이 되었습니다.<br><br>
+       현재는 React, Flutter, Spring Boot, Node.js 등 다양한 기술을 활용해<br>
+       웹과 앱 서비스를 개발하고 있으며,<br>
+       프론트와 백엔드를 모두 아우르는 풀스택 개발에 매력을 느끼고 있습니다.<br><br>
+       혼자 프로잭트를 진행하는것도 즐기지만,<br>
+       팀 프로젝트에서의 협업과 소통을 통해 함께 성장하는 개발 문화를 더 좋아합니다.<br><br>
+       앞으로도 꾸준히 배우고 도전하며,<br>
+       더 나은 개발자가 되기 위해 항상 노력 중입니다. 🚀
+   </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
