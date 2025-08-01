@@ -49,7 +49,7 @@
     <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 
-<div style="text-align: left; display: flex; align-items: center; gap: 20px;">
+<div style="text-align: left; align-items: center; gap: 20px;">
   <div>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=manner0814" />
   </div>
