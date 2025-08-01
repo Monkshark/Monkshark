@@ -1,7 +1,7 @@
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=500&color=gradient&text=Monkshark's-nl-Github&textBg=false&section=header&fontSize=50&fontAlign=50&fontAlignY=47"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Monkshark's-nl-Github&textBg=false&section=header&fontSize=50&fontAlign=50&fontAlignY=47"/>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
