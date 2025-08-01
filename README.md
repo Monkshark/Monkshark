@@ -49,10 +49,15 @@
     <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 
-<div style="text-align: left;">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=manner0814" style="margin-right: 200px;" />
+<div style="text-align: left; display: flex; align-items: center; gap: 20px;">
+  <div>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=manner0814" />
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monkshark&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+  </div>
 </div>
+
 
 
     
