@@ -58,9 +58,6 @@
   </div>
   <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monkshark&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkshark/monkshark/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monkshark/monkshark/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/monkshark/monkshark/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/monkshark/monkshark/output/snake.svg" alt="Snake animation" />
+
 </div>
