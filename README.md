@@ -49,12 +49,21 @@
     <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 
-<div style="text-align: left;">
-  <!-- BOJ 티어 이미지 오른쪽에 여백 추가 -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" style="margin-right: 20px;" />
-  
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monkshark&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+
+  <div style="text-align: left;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" style="margin-right: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monkshark&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+  </div>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkshark/monkshark/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monkshark/monkshark/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/monkshark/monkshark/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 
